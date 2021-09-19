@@ -1,3 +1,3 @@
 # html-studos
 
-this is just a repository for may html studies
+this is just a repository for my html studies
